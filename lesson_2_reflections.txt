@@ -1,1 +1,4 @@
 Git reflections
+
+How can you use the staging area to ensure one commit per logical change?
+- Add files to staging area as you work on them for this particular logical change. Commit them together when changes have been made. 
